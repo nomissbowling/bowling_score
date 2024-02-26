@@ -1,0 +1,21 @@
+[package]
+name = "bowling_score"
+version = "0.1.0" # change with html_root_url in main.rs
+edition = "2021"
+authors = ["nomissbowling <nomissbowling@yahoo.co.jp>"]
+
+description = "bowling score app for Rust"
+keywords = ["bowling", "score", "bscore"]
+categories = ["game-development", "game-engines", "games"]
+license = "MIT"
+
+documentation = "https://docs.rs/bowling_score/"
+homepage = "https://crates.io/crates/bowling_score"
+repository = "https://github.com/nomissbowling/bowling_score"
+
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bscore = { version = "0.1" }
