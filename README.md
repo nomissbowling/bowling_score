@@ -38,7 +38,7 @@ cdylib
 
 - crate [https://crates.io/crates/bscore-lib](https://crates.io/crates/bscore-lib)
 - repository [https://github.com/nomissbowling/bscore-lib](https://github.com/nomissbowling/bscore-lib)
-- docs [https://docs.rs/bscore-lib/latest/bscore-lib/](https://docs.rs/bscore-lib/latest/bscore-lib/)
+- docs [https://docs.rs/bscore-lib/latest/bscore_lib/](https://docs.rs/bscore-lib/latest/bscore_lib/)
 
 app sample
 
