@@ -28,11 +28,17 @@ output
 links
 -----
 
-see also
+library
 
 - crate [https://crates.io/crates/bscore](https://crates.io/crates/bscore)
 - repository [https://github.com/nomissbowling/bscore-rs](https://github.com/nomissbowling/bscore-rs)
 - docs [https://docs.rs/bscore/latest/bscore/](https://docs.rs/bscore/latest/bscore/)
+
+cdylib
+
+- crate [https://crates.io/crates/bscore-lib](https://crates.io/crates/bscore-lib)
+- repository [https://github.com/nomissbowling/bscore-lib](https://github.com/nomissbowling/bscore-lib)
+- docs [https://docs.rs/bscore-lib/latest/bscore-lib/](https://docs.rs/bscore-lib/latest/bscore-lib/)
 
 app sample
 
