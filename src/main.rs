@@ -1,4 +1,4 @@
-#![doc(html_root_url = "https://docs.rs/bowling_score/1.1.1")]
+#![doc(html_root_url = "https://docs.rs/bowling_score/1.2.1")]
 //! bowling_score bowling score app for Rust
 //!
 
